@@ -9,6 +9,7 @@ body {
 
 
 
+
 #menu-container .navbar {
     background-color: #bae3ed!important;
 }
@@ -361,4 +362,9 @@ footer{
 
 .pricing.pricing-info .title a {
     color: #01a5db;
+}
+
+
+.dark-mode .btn-outline-success {
+  background-color: red;
 }
