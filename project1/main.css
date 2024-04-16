@@ -2,6 +2,13 @@ body {
     background-color: #fbefde;
 }
 
+.dark-mode {
+  background-color: black;
+  color: white;
+}
+
+
+
 #menu-container .navbar {
     background-color: #bae3ed!important;
 }
@@ -29,9 +36,20 @@ nav {
 }
 
 #sign-up-button {
-    background-color: #fff !important;
+    background-color: #fff;
     color: black;
 }
+
+.button {
+  background-color: #409f80;
+  color: rgb(96, 112, 165);
+}
+
+.dark-mode .button {
+  background-color: #ff0000;
+  color: rgb(145, 70, 70);
+}
+
 
 #empower-container {
     margin-top: 80px;
